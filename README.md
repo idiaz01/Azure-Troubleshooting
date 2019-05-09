@@ -17,6 +17,7 @@ Here is a full documentation guide for troubleshooting various compute services
 |  Event Hubs | [Troubleshooting Common Exceptions](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-messaging-exceptions)|
 |  Azure Container Registry | [General Troubleshooting](https://github.com/Azure/acr/blob/master/docs/Troubleshooting%20Guide.md)<br>[Known Issues](https://github.com/Azure/acr/issues)|
 |  Kubernetes Service | [General Troubleshooting](https://docs.microsoft.com/en-us/azure/aks/troubleshooting)|
+| Functions | [Storage Issues](https://docs.microsoft.com/en-us/azure/azure-functions/functions-recover-storage-account)<br>[Known Issues](https://github.com/Azure/Azure-Functions/issues)|
 
 
 ## Azure Databases
