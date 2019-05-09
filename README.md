@@ -27,6 +27,12 @@ Here is a full documentation guide for troubleshooting various compute services
 | :---   | :---   |
 | SQL Database|[Connectivity Issues](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-troubleshoot-common-connection-issues)<br>[Data Sync](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-troubleshoot-data-sync)<br>[Performance Issues](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-intelligent-insights-troubleshoot-performance)|
 | Cosmos DB |[Cosmos DB triggers](https://docs.microsoft.com/en-us/azure/cosmos-db/troubleshoot-changefeed-functions)<br>[Java SDK](https://docs.microsoft.com/en-us/azure/cosmos-db/troubleshoot-java-async-sdk)<br>[.NET SDK](https://docs.microsoft.com/en-us/azure/cosmos-db/troubleshoot-dot-net-sdk)|
+| SQL Data Warehouse| [General Troubleshooting](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-troubleshoot)|
+|Redis Cache | [General Troubleshooting](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-how-to-troubleshoot)|
+|MySQL| [Connectivity Issues](https://docs.microsoft.com/en-us/azure/mysql/howto-troubleshoot-common-connection-issues)<br>[Query Performance](https://docs.microsoft.com/en-us/azure/mysql/howto-troubleshoot-query-performance)|
+|PostgreSQL| [Connectivity Issues](https://docs.microsoft.com/en-us/azure/postgresql/howto-troubleshoot-common-connection-issues)|
+|MariaDB| [Connectivity Issues](https://docs.microsoft.com/en-us/azure/mariadb/howto-troubleshoot-common-connection-issues) <br>[Query Performance](https://docs.microsoft.com/en-us/azure/mariadb/howto-troubleshoot-common-connection-issues)|
+|Database Migration Service|[General Troubleshooting](https://docs.microsoft.com/en-us/azure/dms/known-issues-troubleshooting-dms)|
 
 
 
