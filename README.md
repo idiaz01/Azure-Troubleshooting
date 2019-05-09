@@ -8,7 +8,7 @@ Here is a full documentation guide for troubleshooting various compute services
 | Azure Service Name  | Troubleshooting Guide |
 | :---   | :---   |
 |  Virtual Machines | [General Troubleshooting](https://docs.microsoft.com/en-us/azure/virtual-machines/troubleshooting/) <br>|
-|  App Service | [Troubleshoot using Visual Studio](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-dotnet-visual-studio)<br>[Troubleshoot Node JS](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-nodejs-best-practices-and-troubleshoot-guide)|
+|  App Service | [Troubleshoot using Visual Studio](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-dotnet-visual-studio)<br>[Troubleshoot Node JS](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-nodejs-best-practices-and-troubleshoot-guide)<br>[Performance Issues](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-performance-degradation)<br>[Domain and SSL Issues](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-domain-ssl-certificates)|
 |  Service Fabric | [General Troubleshooting](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides)|
 |  Container Instances | [General Troubleshooting](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-troubleshooting)|
 |  Functions | [Troubleshooting Storage issues](https://docs.microsoft.com/en-us/azure/azure-functions/functions-recover-storage-account)|
@@ -24,6 +24,7 @@ Here is a full documentation guide for troubleshooting various compute services
 
 | Azure Service Name  | Troubleshooting Guide |
 | :---   | :---   |
+| SQL Database|[Connectivity Issues](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-troubleshoot-common-connection-issues)<br>[Data Sync](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-troubleshoot-data-sync)<br>[Performance Issues](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-intelligent-insights-troubleshoot-performance)|
 | Cosmos DB |[Cosmos DB triggers](https://docs.microsoft.com/en-us/azure/cosmos-db/troubleshoot-changefeed-functions)<br>[Java SDK](https://docs.microsoft.com/en-us/azure/cosmos-db/troubleshoot-java-async-sdk)<br>[.NET SDK](https://docs.microsoft.com/en-us/azure/cosmos-db/troubleshoot-dot-net-sdk)|
 
 
